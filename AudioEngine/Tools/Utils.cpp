@@ -1,3 +1,5 @@
+// ©2023 JDSherbert. All rights reserved.
+
 #include "Utils.h"
 
 float Utils::dBToVolume(float dB)

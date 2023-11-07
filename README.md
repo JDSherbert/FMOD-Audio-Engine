@@ -15,7 +15,7 @@
 -----------------------------------------------------------------------
 
 <a href="https://www.fmod.com/"> 
-  <img align="left" alt="FMOD Audio Engine" src="https://img.shields.io/badge/FMOD%20Audio%20Engine-black?style=for-the-badge&logo=fmod&logoColor=white&color=black&labelColor=black"> </a>
+  <img align="left" alt="FMOD Tool" src="https://img.shields.io/badge/FMOD%20Tool-black?style=for-the-badge&logo=fmod&logoColor=white&color=black&labelColor=black"> </a>
   
 <a href="https://choosealicense.com/licenses/mit/"> 
   <img align="right" alt="License" src="https://img.shields.io/badge/License%20:%20MIT-black?style=for-the-badge&logo=mit&logoColor=white&color=black&labelColor=black"> </a>
@@ -24,7 +24,7 @@
 
 -----------------------------------------------------------------------
 ## Overview
-Some words about the project here-
+Simple FMOD implementation into a C++ project, that uses FMOD Studio & Core as a wrapper to playback Audio files.
 
 
 -----------------------------------------------------------------------

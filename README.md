@@ -1,4 +1,4 @@
-![image](https://github.com/JDSherbert/FMOD-Audio-Engine/assets/43964243/d29dfaf3-a41c-4ebc-a627-9b998529c0fb)
+![image](https://github.com/JDSherbert/Simple-FMOD-Audio-Player/assets/43964243/86c71103-6726-4d3c-8258-47b3588bb701)
 
 # FMOD Audio Engine
 

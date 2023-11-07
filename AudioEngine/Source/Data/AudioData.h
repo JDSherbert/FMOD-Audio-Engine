@@ -2,6 +2,14 @@
 
 #pragma once
 
+/// @file AudioData.h
+/// 
+/// Holds and provides data to be used by the AudioEngine.
+///
+/// @author JDSherbert
+
+#pragma once
+
 #include "../Math/Vector3.h"
 
 class AudioData

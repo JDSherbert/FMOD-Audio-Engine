@@ -1,6 +1,6 @@
-![image]()
+![image](https://github.com/JDSherbert/FMOD-Audio-Engine/assets/43964243/d29dfaf3-a41c-4ebc-a627-9b998529c0fb)
 
-# Repository Template
+# FMOD Audio Engine
 
 <!-- Header Start -->
 <a href = "https://docs.unrealengine.com/5.3/en-US/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/fmod/white"> </a> 

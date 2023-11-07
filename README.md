@@ -3,7 +3,7 @@
 # FMOD Audio Engine
 
 <!-- Header Start -->
-<a href = "https://docs.unrealengine.com/5.3/en-US/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/fmod/white"> </a> 
+<a href = "https://www.fmod.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/fmod/white"> </a> 
 <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
 <img align="right" alt="Stars Badge" src="https://img.shields.io/github/stars/jdsherbert/FMOD-Audio-Engine?label=%E2%AD%90"/>
 <img align="right" alt="Forks Badge" src="https://img.shields.io/github/forks/jdsherbert/FMOD-Audio-Engine?label=%F0%9F%8D%B4"/>
@@ -14,7 +14,7 @@
 
 -----------------------------------------------------------------------
 
-<a href="https://docs.unrealengine.com/5.3/en-US/"> 
+<a href="https://www.fmod.com/"> 
   <img align="left" alt="FMOD Audio Engine" src="https://img.shields.io/badge/FMOD%20Audio%20Engine-black?style=for-the-badge&logo=fmod&logoColor=white&color=black&labelColor=black"> </a>
   
 <a href="https://choosealicense.com/licenses/mit/"> 
